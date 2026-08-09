@@ -1,2 +1,15 @@
-# infinity-ai-platform
-Infinity AI Landing Platform v2 - SPA with fixed sidebar and transitions
+# Infinity AI — المنصة التعريفية v2
+
+## ما تم تنفيذه حسب المواصفات الأصلية
+
+- SPA بدون إعادة تحميل الصفحة
+- Sidebar ثابت + Header ثابت
+- نظام انتقال: opacity + scale + blur ثم العكس
+- الأقسام: الرئيسية، المميزات، الاشتراكات، معرض الأعمال، الأسئلة، التواصل، التحميل
+- **لا يوجد متجر داخل المنصة** — فقط ذكر معلوماتي عن المتجر داخل التطبيق
+- دخول سري للوحة الإدارة من الفوتر
+
+## التشغيل
+```bash
+npm install && npm run dev
+```
